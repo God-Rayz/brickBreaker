@@ -85,7 +85,7 @@ const ball = {
     x: canvas.width / 2,
     y: paddle.y - BALL_RADIUS,
     radius: BALL_RADIUS,
-    speed: 5,
+    speed: 3,
     dx: 3 * (Math.random() * 2 - 1),
     dy: -3
 }
