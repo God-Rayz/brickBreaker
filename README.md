@@ -1,4 +1,4 @@
-Brick Breaker Game
+<h1>Brick Breaker Game</h1>
 
 This is a simple implementation of the classic game Brick Breaker. The game is built using HTML5 Canvas and JavaScript.
 
