@@ -26,5 +26,5 @@ To run the game, simply open the index.html file in a web browser.
 * The game ends when the player completes all 4 levels or runs out of lives
 
 ## References
-*Reference images are contained in the references folder
-*Sounds are contained in the sounds folder
+* Reference images are contained in the references folder
+* Sounds are contained in the sounds folder
