@@ -1,10 +1,10 @@
-<h1>Brick Breaker Game</h1>
+# Brick Breaker Game
 
 This is a simple implementation of the classic game Brick Breaker. The game is built using HTML5 Canvas and JavaScript.
 
 The game is played by moving a paddle left and right along the bottom of the screen, trying to prevent a ball from falling off the bottom of the screen while breaking bricks at the top of the screen. The player must use the paddle to bounce the ball back up towards the bricks, trying to break as many as possible while avoiding missing the ball and losing a life.
 
-Game files
+## Game files
 The game is contained in the following files:
 
 index.html - The HTML file that contains the game structure and elements
